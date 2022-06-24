@@ -1,0 +1,4 @@
+make: Entering directory `/Users/sraj/go_framework/crud'
+go run cmd/main.go
+make: Leaving directory `/Users/sraj/go_framework/crud'
+ 
